@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 <img src="SEcurity 2.png">
-<img src="SEcurity 1.png">
+<img src="SEcurity 1.PNG">
 
